@@ -1,0 +1,1 @@
+gcc -o ShinShell -g main.c sys.c stack.c calculator.c
